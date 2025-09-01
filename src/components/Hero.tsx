@@ -15,7 +15,7 @@ const Hero = () => {
   const handleDownloadResume = () => {
     // Create a link to download resume
     const link = document.createElement('a');
-    link.href = '/assets/resume.pdf';
+    link.href = '/assets/VENKATANAGA VINEETH SAI.pdf';
     link.download = 'Venkata_Naga_Vineeth_Sai_Appana_Resume.pdf';
     document.body.appendChild(link);
     link.click();
