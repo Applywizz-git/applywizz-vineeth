@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { TypeAnimation } from 'react-type-animation';
 import { ArrowDown, Download } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import heroProfile from '@/assets/hero-image.png';
+import heroProfile from '@/assets/hero-image.jpg';
 
 const Hero = () => {
   const scrollToProjects = () => {
